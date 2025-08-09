@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hii , I am Yogesh
+# Hii,I'm Yogesh R...!:
+A passsionate embedded system developer from Bengalore!
+
 
 
 ## 🌐 Socials:
