@@ -1,5 +1,10 @@
 # Hii,I'm Yogesh R...!
 ## A passsionate embedded system developer from Bengalore!
+* I,m currently learning Python and MySQL
+* I'm currently working on #Embedded systems
+* Check out my resume here - https://drive.google.com/file/d/1xVFKkwZ6f_eyHRT8GwDVMHdjDGyEw6jY/view?usp=sharing
+* Ask me about programming in C,Cpp, Embedded Systems Development
+* Reach out to me at yogeshr18012@gmail.com
 
 
 
