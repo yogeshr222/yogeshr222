@@ -1,5 +1,5 @@
-# Hii,I'm Yogesh R...!:
-A passsionate embedded system developer from Bengalore!
+## Hii,I'm Yogesh R...!
+# A passsionate embedded system developer from Bengalore!
 
 
 
